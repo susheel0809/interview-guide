@@ -53,3 +53,6 @@ This project is an interview practice platform designed to help users prepare fo
    ```bash
    git clone https://github.com/yourusername/interview-practice.git
    cd interview-practice
+
+### Google sheet URL
+https://docs.google.com/spreadsheets/d/16rmXEmHXYXDwCrVd0Mivt6NoBTP3eX7_Pv4iSUHj99Y/edit?usp=sharing
